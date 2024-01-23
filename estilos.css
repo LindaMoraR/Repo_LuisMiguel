@@ -5,9 +5,9 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #f4f5de, #005c81);
+    background: linear-gradient(to bottom, #169d99, #005c81);
     margin: 0;
-    height: 130vh;
+    height: 150vh;
     display: flex;
     flex-direction: column;
 }
@@ -49,6 +49,28 @@ div p{
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
+
+.img1{
+    width: 30%;
+    height: 130px;
+    border-radius: 5%;
+}
+#pos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 12%;
+}
+#pos1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 12%;
+}
+#subt1{
+    text-align: center;
+}
+
 
 /* ----------------- Pie de página --------------- */
 #footerPagina{
