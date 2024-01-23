@@ -67,9 +67,25 @@ div p{
     justify-content: center;
     padding-left: 12%;
 }
-#subt1{
+.subt1{
     text-align: center;
 }
+#sub1{
+    text-align: center;
+}
+#enlace1{
+    display: flex;
+    justify-content: center;
+    padding-left: 18%;
+}
+#enlace2{
+    display: flex;
+    justify-content: center;
+    padding-left: 18%;
+}
+
+
+
 
 
 /* ----------------- Pie de página --------------- */
